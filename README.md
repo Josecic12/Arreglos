@@ -1,1 +1,1 @@
-# Arreglos
+El siguiente codigo mostramos las ventas de cada mes de deportes, jugueteria y ropa, lo que hacemos es imprimir cada mes primero y de ahi con buscar metas es pedir el mes que queremos buscar que en mi caso es el 5 mayo, y lo de eliminar venta mensual es para eliminar 1 mes en especifico que igual escogi el mes 5 que es mayo
